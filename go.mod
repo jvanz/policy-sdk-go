@@ -15,3 +15,5 @@ require (
 )
 
 replace github.com/go-openapi/strfmt => github.com/kubewarden/strfmt v0.1.2
+
+replace github.com/kubewarden/k8s-objects v1.24.0-kw3 => github.com/jvanz/k8s-objects v1.24.0-kw3
